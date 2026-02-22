@@ -27,7 +27,7 @@ Data is stored locally. Optional backups can be exported and encrypted with a pa
 You can delete the app to remove all local data. You control any exports and shares.
 
 ### 7. Contact
-If you have questions, contact us at: [TODO] support@your-domain.com
+If you have questions, contact us at: support@givinggetting.com
 
 ---
 
@@ -54,7 +54,7 @@ GuniaorTax 是本地优先的记账应用，我们不运营用于收集个人数
 你可以删除应用以移除本地数据；所有导出与分享均由你控制。
 
 ### 7. 联系方式
-如有疑问，请联系：[TODO] support@your-domain.com
+如有疑问，请联系：support@givinggetting.com
 
 ---
 
@@ -81,4 +81,4 @@ Les données sont stockées localement. Les sauvegardes optionnelles peuvent êt
 Vous pouvez supprimer l’application pour effacer toutes les données locales. Vous contrôlez toute exportation ou partage.
 
 ### 7. Contact
-Pour toute question, contactez‑nous : [TODO] support@your-domain.com
+Pour toute question, contactez‑nous : support@givinggetting.com
